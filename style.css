@@ -28,6 +28,10 @@ body{
     animation: walking 1s ease infinite;
 }
 
+.running{
+    animation: running 1s ease infinite;
+}
+
 .grama{
     height: 45vh;
     background-color: green;
